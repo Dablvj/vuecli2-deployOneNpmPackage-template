@@ -1,1 +1,1 @@
-# vuecli2-deployOneNpmPackage-template
+# vue-cli2、webpack3、node@10.6.0下发布vue组件包
